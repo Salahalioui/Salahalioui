@@ -3,11 +3,13 @@
 <div align="center">
 
 ### 🎓 Sports Science PhD Researcher & 💻 Full-Stack AI Software Engineer
-#### ⚡ Vibe Coding Practitioner & AI Agent Architect
+#### ⚡ Vibe Coding Practitioner • Open for Freelance Opportunities (Arabic & English)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salahalioui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alioui-salah-dine-6301b410a/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salahallioui01@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SALAH.ALIOUI32)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Salahalioui)
+[![Freelance](https://img.shields.io/badge/Freelance-Available_Now-00C853?style=for-the-badge&logo=workplace&logoColor=white)](mailto:salahallioui01@gmail.com)
 [![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-AI_Powered-FFD700?style=for-the-badge&logo=sparkles&logoColor=black)](https://github.com/Salahalioui)
 
 ---
@@ -21,7 +23,8 @@ I bridge the gap between **Academic Sports Science Research** and **Cutting-Edge
 - 🎓 **PhD Researcher in Sports Science & Physical Education**: Specializing in Volleyball match analytics, talent identification, and physical evaluation methodologies.
 - ⚡ **Full-Stack & Native Desktop Developer**: Building high-speed desktop tools with **Tauri 2 (Rust)** & **React 19**, as well as cloud-native web apps.
 - 🧠 **AI Engineer & Vibe Coding Practitioner**: Leveraging multimodal LLMs (**Google Gemini 2.5/3.5**, OpenRouter) for video analysis, computer vision, and academic research automation.
-- 📍 **Location**: Algeria 🇩🇿
+- 💼 **Open for Freelance & Consultations**: Fluent in **Arabic 🇩🇿** and **English 🇬🇧**. Available for custom web/desktop software engineering, AI integration, and sports tech analytics.
+- 📍 **Location**: Algeria 🇩🇿 | 📧 **Email**: `salahallioui01@gmail.com`
 
 ---
 
@@ -104,7 +107,7 @@ I bridge the gap between **Academic Sports Science Research** and **Cutting-Edge
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Salahalioui&color=0A66C2&style=for-the-badge&label=Profile%20Views)
 ![Public Repositories](https://img.shields.io/badge/Verified_Repositories-23_Public-2eb85c?style=for-the-badge&logo=github&logoColor=white)
-![Workflow](https://img.shields.io/badge/Workflow-Vibe_Coding_%26_AI_Agent-FFD700?style=for-the-badge)
+![Freelance Status](https://img.shields.io/badge/Freelance-Open_for_Projects-00C853?style=for-the-badge)
 
 <br/>
 
@@ -116,6 +119,7 @@ I bridge the gap between **Academic Sports Science Research** and **Cutting-Edge
 
 <div align="center">
 
-**✨ Open to Academic Collaborations & Engineering Projects in Sports Tech & AI Software Development ✨**
+**✨ Open to Freelance Opportunities & Academic Collaborations in Sports Tech & AI Software Development ✨**  
+📫 Contact: `salahallioui01@gmail.com` • [LinkedIn Profile](https://www.linkedin.com/in/alioui-salah-dine-6301b410a/)
 
 </div>
