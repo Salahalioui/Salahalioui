@@ -96,16 +96,19 @@ I bridge the gap between **Academic Sports Science Research** and **Cutting-Edge
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Activity & Stats
 
-<p align="center">
-  <a href="https://github.com/Salahalioui">
-    <img src="https://github-readme-stats.vercel.app/api?username=Salahalioui&show_icons=true&theme=dark" alt="Salah's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Salahalioui">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salahalioui&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
-</p>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Salahalioui&color=0A66C2&style=for-the-badge&label=Profile%20Views)
+![Public Repositories](https://img.shields.io/badge/Public_Repositories-40+-2eb85c?style=for-the-badge&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Sports_Tech_%26_AI-FFD700?style=for-the-badge)
+
+<br/>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Salahalioui&theme=darkhub&column=6&margin-w=15)
+
+</div>
 
 ---
 
