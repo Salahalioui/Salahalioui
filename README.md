@@ -3,10 +3,12 @@
 <div align="center">
 
 ### 🎓 Sports Science PhD Researcher & 💻 Full-Stack AI Software Engineer
+#### ⚡ Vibe Coding Practitioner & AI Agent Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salahalioui)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SALAH.ALIOUI32)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Salahalioui)
+[![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-AI_Powered-FFD700?style=for-the-badge&logo=sparkles&logoColor=black)](https://github.com/Salahalioui)
 
 ---
 
@@ -14,11 +16,11 @@
 
 ## 🔬 About Me
 
-I bridge the gap between **Academic Sports Science Research** and **Cutting-Edge Software Engineering**. My work focuses on building high-performance native desktop suites, multimodal AI applications, offline-first PWAs, and data-driven analytical platforms for sports performance, talent scouting, and academic research.
+I bridge the gap between **Academic Sports Science Research** and **Cutting-Edge Software Engineering**. Through modern **Vibe Coding** and AI agent workflows, I rapidly transform empirical sports research into high-performance native desktop suites, multimodal AI applications, and offline-first PWAs.
 
 - 🎓 **PhD Researcher in Sports Science & Physical Education**: Specializing in Volleyball match analytics, talent identification, and physical evaluation methodologies.
 - ⚡ **Full-Stack & Native Desktop Developer**: Building high-speed desktop tools with **Tauri 2 (Rust)** & **React 19**, as well as cloud-native web apps.
-- 🧠 **AI Engineer**: Leveraging multimodal LLMs (**Google Gemini 2.5/3.5**, OpenRouter) for video analysis, computer vision, and academic research automation.
+- 🧠 **AI Engineer & Vibe Coding Practitioner**: Leveraging multimodal LLMs (**Google Gemini 2.5/3.5**, OpenRouter) for video analysis, computer vision, and academic research automation.
 - 📍 **Location**: Algeria 🇩🇿
 
 ---
@@ -92,17 +94,17 @@ I bridge the gap between **Academic Sports Science Research** and **Cutting-Edge
 | **Frontend & Mobile** | ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) |
 | **Desktop & Systems** | ![Tauri 2](https://img.shields.io/badge/Tauri_2-FFC131?style=flat-square&logo=tauri&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square) ![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=flat-square) |
 | **AI & Backend** | ![Google Gemini API](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google-gemini&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Domain Expertise** | **Sports Science Analytics** • **Talent Scouting Systems** • **Multimodal Computer Vision** • **Academic Research Tooling** |
+| **Domain Expertise** | **Sports Science Analytics** • **Talent Scouting Systems** • **Multimodal Computer Vision** • **Vibe Coding Workflows** |
 
 ---
 
-## 📈 Activity & Stats
+## 📈 Activity & Verified Stats
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Salahalioui&color=0A66C2&style=for-the-badge&label=Profile%20Views)
-![Public Repositories](https://img.shields.io/badge/Public_Repositories-40+-2eb85c?style=for-the-badge&logo=github&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Sports_Tech_%26_AI-FFD700?style=for-the-badge)
+![Public Repositories](https://img.shields.io/badge/Verified_Repositories-23_Public-2eb85c?style=for-the-badge&logo=github&logoColor=white)
+![Workflow](https://img.shields.io/badge/Workflow-Vibe_Coding_%26_AI_Agent-FFD700?style=for-the-badge)
 
 <br/>
 
