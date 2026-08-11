@@ -98,12 +98,14 @@ I bridge the gap between **Academic Sports Science Research** and **Cutting-Edge
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salahalioui&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salahalioui&layout=compact&theme=nord&hide=html,css"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/Salahalioui">
+    <img src="https://github-readme-stats.vercel.app/api?username=Salahalioui&show_icons=true&theme=dark" alt="Salah's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Salahalioui">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salahalioui&layout=compact&theme=dark" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
